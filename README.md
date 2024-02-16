@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm KRISHNANSHU</h1>
 <h3 align="center">I'm a passionate front-end web developer currently working towards learning Fullstack web Development to further enhance my skills.</h3>
 
-- 🌱 I’m currently learning **node.js**
+- 🌱 I’m currently learning **BackEnd**
 
 - 📫 How to reach me **krishjatav246@gmail.com**
 
