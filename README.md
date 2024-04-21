@@ -1,11 +1,5 @@
-<h1 align="center">Hi 👋, I'm KRISH</h1>
-<h3 align="center">I'm a passionate front-end web developer currently working towards learning Fullstack web Development to further enhance my skills.</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=krish-jatav&label=Profile%20views&color=0e75b6&style=flat" alt="krish-jatav" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=krish-jatav" alt="krish-jatav" /></a> </p>
-
-- 🌱 I’m currently learning **BackEnd**
+<h1 align="center">Hi 👋, I'm KRISH Fullstack Web Developer</h1>
+- 🌱 I’m currently learning **Java**
 
 - 📫 How to reach me **krishjatav246@gmail.com**
 
